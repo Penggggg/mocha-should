@@ -1,0 +1,16 @@
+{
+  "name": "mocha&should",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha 1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "mocha": "^8.0.1",
+    "should": "^13.2.3"
+  }
+}
